@@ -1,0 +1,4 @@
+com\google\dap\canal\client\CanalClient.class
+com\google\dap\canal\util\ConfigUtil.class
+com\google\dap\canal\util\KafkaSender.class
+com\google\dap\canal\Entrance.class

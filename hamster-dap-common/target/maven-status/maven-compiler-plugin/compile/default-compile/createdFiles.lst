@@ -1,0 +1,10 @@
+com\google\canal\protobuf\CanalModel$RowData$1.class
+com\google\canal\protobuf\CanalModel$RowDataOrBuilder.class
+com\google\canal\protobuf\CanalModel$1.class
+com\google\canal\protobuf\CanalModel$RowData$ColumnsDefaultEntryHolder.class
+com\google\dap\canal\protobuf\ProtoBufSerializer.class
+com\google\canal\protobuf\CanalModel$RowData$Builder.class
+com\google\canal\protobuf\CanalModel$RowData.class
+com\google\canal\protobuf\CanalModel.class
+com\google\dap\canal\bean\CanalRowData.class
+com\google\dap\canal\protobuf\ProtoBufable.class

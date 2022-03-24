@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hamster-dap-realtime-etl" />
+        <module name="hamster-dap-canal-client" />
+        <module name="hamster-dap-druid" />
+        <module name="hamster-dap-common" />
+        <module name="hamster-dap-phoenix" />
+        <module name="hamster-dap-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
